@@ -13,6 +13,8 @@ trying to collect canonical Q&As for cython
   * Make executable file from multiple pyx files using cython https://stackoverflow.com/a/52977319/5769463
   * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
   * Link Cython-wrapped C functions against BLAS from NumPy https://stackoverflow.com/a/52925796/5769463
+  * declaration of functions with `except`: https://stackoverflow.com/a/50687119/5769463
+  
 ## How-to
 
 tutorials how to do something
