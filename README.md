@@ -19,7 +19,8 @@ trying to collect canonical Q&As for cython
 
 tutorials how to do something
 
-  * How to test functions cdef'd in Cython? https://stackoverflow.com/a/53696970/5769463
+  * How to test functions cdef'd in Cython https://stackoverflow.com/a/53696970/5769463
+  * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
 
 
 
