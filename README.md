@@ -10,10 +10,14 @@ trying to collect canonical Q&As for cython
   * Cython: understanding a typed memoryview with indirect_contignuous memory layout https://stackoverflow.com/a/53951543/5769463
   * Wrapping C++ code with function pointer (or other non-type template parameter) as template parameter in cython https://stackoverflow.com/a/53584657/5769463
   * How to test if Cython property/function is generator? https://stackoverflow.com/a/53425234/5769463
+  * declaration of functions with `except`: https://stackoverflow.com/a/50687119/5769463
+  
+#### Building:
+
+  * creating a static executable https://stackoverflow.com/a/48836737/5769463
   * Make executable file from multiple pyx files using cython https://stackoverflow.com/a/52977319/5769463
   * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
   * Link Cython-wrapped C functions against BLAS from NumPy https://stackoverflow.com/a/52925796/5769463
-  * declaration of functions with `except`: https://stackoverflow.com/a/50687119/5769463
   
 ## How-to
 
