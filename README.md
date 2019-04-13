@@ -18,13 +18,14 @@ trying to collect canonical Q&As for cython
   * Make executable file from multiple pyx files using cython https://stackoverflow.com/a/52977319/5769463
   * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
   * Link Cython-wrapped C functions against BLAS from NumPy https://stackoverflow.com/a/52925796/5769463
+  * Using h-files created by Cython to embed Python in a C/C++-exe: https://stackoverflow.com/a/45424720/5769463
+  * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   
 ## How-to
 
 tutorials how to do something
 
   * How to test functions cdef'd in Cython https://stackoverflow.com/a/53696970/5769463
-  * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   * How to use user-defined types for numpy-array in Cython https://stackoverflow.com/a/50861680/5769463
 
 
