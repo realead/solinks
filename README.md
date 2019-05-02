@@ -21,6 +21,11 @@ trying to collect canonical Q&As for cython
   * Using h-files created by Cython to embed Python in a C/C++-exe: https://stackoverflow.com/a/45424720/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   
+#### Numpy:
+
+  * How to use user-defined types for numpy-array in Cython https://stackoverflow.com/a/50861680/5769463
+  * How to initialize PyArray_API:  https://stackoverflow.com/a/47027598/5769463
+  * How to pass ownership of pointer to numpy-array: https://stackoverflow.com/a/55959886/5769463
 ## How-to
 
 tutorials how to do something
@@ -35,7 +40,7 @@ tutorials how to do something
 Q&As I found useful (for different reasons)
 
   * "Why does `PyObject_GenericSetAttr` behave differently with lambdas than named functions" - https://stackoverflow.com/a/51794949/5769463 - Links to using gdb for cpython-debugging
-  * How interning works in CPython https://stackoverflow.com/a/53506425/5769463
+  * How interning works in CPython https://stackoverflow.com/a/53506425/5769463 also https://stackoverflow.com/a/55644780/5769463
   * using ffi with numba https://stackoverflow.com/a/52958324/5769463
 
 
@@ -46,4 +51,5 @@ answers I'm proud of (obviously without objective reasons):
 
   * Differences between PyCFunctionObject and PyFunctionObject, decriptor protocol, LOAD_METHOD-ptcode: https://stackoverflow.com/a/51794949/5769463
   * Memory layout of unicode-objects, how pymalloc works: https://stackoverflow.com/a/54030412/5769463
+  * Memory consumption of int-object, how pymalloc works: https://stackoverflow.com/a/55621875/5769463
                    
