@@ -20,6 +20,7 @@ trying to collect canonical Q&As for cython
   * Link Cython-wrapped C functions against BLAS from NumPy https://stackoverflow.com/a/52925796/5769463
   * Using h-files created by Cython to embed Python in a C/C++-exe: https://stackoverflow.com/a/45424720/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
+  * Setuptools & using numpy without preinstallation https://stackoverflow.com/a/54138355/5769463
   
 #### Numpy:
 
@@ -52,4 +53,5 @@ answers I'm proud of (obviously without objective reasons):
   * Differences between PyCFunctionObject and PyFunctionObject, decriptor protocol, LOAD_METHOD-ptcode: https://stackoverflow.com/a/51794949/5769463
   * Memory layout of unicode-objects, how pymalloc works: https://stackoverflow.com/a/54030412/5769463
   * Memory consumption of int-object, how pymalloc works: https://stackoverflow.com/a/55621875/5769463
+  * Using pymalloc as allocator for c++-maps/performace tests: https://stackoverflow.com/a/56551790/5769463
                    
