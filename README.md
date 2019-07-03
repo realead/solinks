@@ -21,6 +21,8 @@ trying to collect canonical Q&As for cython
   * Using h-files created by Cython to embed Python in a C/C++-exe: https://stackoverflow.com/a/45424720/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   * Setuptools & using numpy without preinstallation https://stackoverflow.com/a/54138355/5769463
+  * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
+  * Cythons inlude_path vs. distutils include_dirs https://stackoverflow.com/q/56812008/5769463
   
 #### Numpy:
 
