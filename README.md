@@ -6,6 +6,7 @@ collection of so questions
 trying to collect canonical Q&As for cython
 
   * Error message “Cannot convert 'double *' to Python object” in Cython:  https://stackoverflow.com/q/53763480/5769463
+  * Error message "Cannot convert Python object to ..."  : https://stackoverflow.com/q/47005382/5769463
   * How to specify Python 3 source in Cython's setup.py? https://stackoverflow.com/a/53992016/5769463
   * Cython: understanding a typed memoryview with indirect_contignuous memory layout https://stackoverflow.com/a/53951543/5769463
   * Wrapping C++ code with function pointer (or other non-type template parameter) as template parameter in cython https://stackoverflow.com/a/53584657/5769463
