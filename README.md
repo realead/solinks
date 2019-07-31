@@ -19,7 +19,8 @@ trying to collect canonical Q&As for cython
   * Make executable file from multiple pyx files using cython https://stackoverflow.com/a/52977319/5769463
   * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
   * Link Cython-wrapped C functions against BLAS from NumPy https://stackoverflow.com/a/52925796/5769463
-  * Using h-files created by Cython to embed Python in a C/C++-exe: https://stackoverflow.com/a/45424720/5769463
+  * Using h/c-files created by Cython to embed Python in a C/C++-exe: https://stackoverflow.com/a/45424720/5769463
+  * Taking care of multi-phase intialization in embeded Python (Cython>=0.29) https://stackoverflow.com/a/55669343/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   * Setuptools & using numpy without preinstallation https://stackoverflow.com/a/54138355/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
@@ -46,6 +47,7 @@ Q&As I found useful (for different reasons)
   * "Why does `PyObject_GenericSetAttr` behave differently with lambdas than named functions" - https://stackoverflow.com/a/51794949/5769463 - Links to using gdb for cpython-debugging
   * How interning works in CPython https://stackoverflow.com/a/53506425/5769463 also https://stackoverflow.com/a/55644780/5769463
   * using ffi with numba https://stackoverflow.com/a/52958324/5769463
+  * example of profiling with python https://stackoverflow.com/a/52750168/5769463
 
 
 
