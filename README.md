@@ -31,12 +31,14 @@ trying to collect canonical Q&As for cython
   * How to use user-defined types for numpy-array in Cython https://stackoverflow.com/a/50861680/5769463
   * How to initialize PyArray_API:  https://stackoverflow.com/a/47027598/5769463
   * How to pass ownership of pointer to numpy-array: https://stackoverflow.com/a/55959886/5769463
+  
 ## How-to
 
 tutorials how to do something
 
   * How to test functions cdef'd in Cython https://stackoverflow.com/a/53696970/5769463
   * How to use user-defined types for numpy-array in Cython https://stackoverflow.com/a/50861680/5769463
+  * How to create a C-Closure (also jit with Python) https://stackoverflow.com/q/51044122/5769463
 
 
 
