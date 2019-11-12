@@ -12,6 +12,7 @@ trying to collect canonical Q&As for cython
   * Wrapping C++ code with function pointer (or other non-type template parameter) as template parameter in cython https://stackoverflow.com/a/53584657/5769463
   * How to test if Cython property/function is generator? https://stackoverflow.com/a/53425234/5769463
   * declaration of functions with `except`: https://stackoverflow.com/a/50687119/5769463
+  * cdef's cannot be accessed from pure python: https://stackoverflow.com/q/30228821/5769463
   
 #### Building:
 
@@ -61,4 +62,5 @@ answers I'm proud of (obviously without objective reasons):
   * Memory layout of unicode-objects, how pymalloc works: https://stackoverflow.com/a/54030412/5769463
   * Memory consumption of int-object, how pymalloc works: https://stackoverflow.com/a/55621875/5769463
   * Using pymalloc as allocator for c++-maps/performace tests: https://stackoverflow.com/a/56551790/5769463
+  * Why so are loaded before py-files? https://stackoverflow.com/q/56004885/5769463
                    
