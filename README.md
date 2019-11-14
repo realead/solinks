@@ -26,7 +26,8 @@ trying to collect canonical Q&As for cython
   * Setuptools & using numpy without preinstallation https://stackoverflow.com/a/54138355/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
   * Cythons inlude_path vs. distutils include_dirs https://stackoverflow.com/q/56812008/5769463
-  * how to cythonize `__init__.py` on Windows https://stackoverflow.com/q/58797673/5769463
+  * how to cythonize `__init__.py` (also on Windows) https://stackoverflow.com/q/58797673/5769463
+  * Warning LNK4197 on Windows  while building modules with cython https://stackoverflow.com/a/58866779/5769463
   
 #### Numpy:
 
