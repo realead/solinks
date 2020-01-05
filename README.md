@@ -13,6 +13,7 @@ trying to collect canonical Q&As for cython
   * How to test if Cython property/function is generator? https://stackoverflow.com/a/53425234/5769463
   * declaration of functions with `except`: https://stackoverflow.com/a/50687119/5769463
   * cdef's cannot be accessed from pure python: https://stackoverflow.com/q/30228821/5769463
+  * don't use cdef float for timer.time(): https://stackoverflow.com/q/55997211/5769463
   
 #### Building:
 
