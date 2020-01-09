@@ -18,6 +18,7 @@ trying to collect canonical Q&As for cython
 ### pickling:
 
   * pickling of namedcollection with Cython: https://stackoverflow.com/a/55236951/5769463
+  * pickling typed memory-view with Cython: https://stackoverflow.com/a/58343703/5769463
   
 #### Building:
 
@@ -33,6 +34,8 @@ trying to collect canonical Q&As for cython
   * Cythons inlude_path vs. distutils include_dirs https://stackoverflow.com/q/56812008/5769463
   * how to cythonize `__init__.py` (also on Windows) https://stackoverflow.com/q/58797673/5769463
   * Warning LNK4197 on Windows  while building modules with cython https://stackoverflow.com/a/58866779/5769463
+  * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
+  * building extension for debug-build https://stackoverflow.com/a/59204487/5769463
   
 #### Numpy:
 
