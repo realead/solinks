@@ -14,6 +14,10 @@ trying to collect canonical Q&As for cython
   * declaration of functions with `except`: https://stackoverflow.com/a/50687119/5769463
   * cdef's cannot be accessed from pure python: https://stackoverflow.com/q/30228821/5769463
   * don't use cdef float for timer.time(): https://stackoverflow.com/q/55997211/5769463
+
+### pickling:
+
+  * pickling of namedcollection with Cython: https://stackoverflow.com/a/55236951/5769463
   
 #### Building:
 
@@ -66,4 +70,5 @@ answers I'm proud of (obviously without objective reasons):
   * Memory consumption of int-object, how pymalloc works: https://stackoverflow.com/a/55621875/5769463
   * Using pymalloc as allocator for c++-maps/performace tests: https://stackoverflow.com/a/56551790/5769463
   * Why so are loaded before py-files? https://stackoverflow.com/q/56004885/5769463
+  * numexpr sets the number of vml-threads: https://stackoverflow.com/a/59603509/5769463
                    
