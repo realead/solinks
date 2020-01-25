@@ -36,6 +36,7 @@ trying to collect canonical Q&As for cython
   * Warning LNK4197 on Windows  while building modules with cython https://stackoverflow.com/a/58866779/5769463
   * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
   * building extension for debug-build https://stackoverflow.com/a/59204487/5769463
+  * reloading Cython modules https://stackoverflow.com/a/55172547/5769463
   
 #### Numpy:
 
