@@ -62,6 +62,7 @@ Q&As I found useful (for different reasons)
   * How interning works in CPython https://stackoverflow.com/a/53506425/5769463 also https://stackoverflow.com/a/55644780/5769463
   * using ffi with numba https://stackoverflow.com/a/52958324/5769463
   * example of profiling with python https://stackoverflow.com/a/52750168/5769463
+  * using callgrind with python: https://stackoverflow.com/a/50732998/5769463
 
 
 
@@ -76,3 +77,4 @@ answers I'm proud of (obviously without objective reasons):
   * Why so are loaded before py-files? https://stackoverflow.com/q/56004885/5769463
   * numexpr sets the number of vml-threads: https://stackoverflow.com/a/59603509/5769463
                    
+ 
