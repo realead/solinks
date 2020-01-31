@@ -44,6 +44,22 @@ trying to collect canonical Q&As for cython
   * How to initialize PyArray_API:  https://stackoverflow.com/a/47027598/5769463
   * How to pass ownership of pointer to numpy-array: https://stackoverflow.com/a/55959886/5769463
   
+#### OMP/parallelization:
+   
+  * accessing elements of a list in parallel: https://stackoverflow.com/a/60012137/5769463
+  * using thread-local containers: https://stackoverflow.com/a/58813699/5769463
+  * using different scheduling strategies: https://stackoverflow.com/a/58296988/5769463
+  * more complicated OMP-things with Cython: https://stackoverflow.com/a/57967436/5769463
+  * OMP-threads and Python-threads are different things: https://stackoverflow.com/a/53696844/5769463
+  
+#### Importing modules:
+
+  * using different file-extension for modeules: https://stackoverflow.com/a/59995134/5769463
+  * order of importing so,py,pyc files: https://stackoverflow.com/a/56119980/5769463
+  * reloading c-extensions: https://stackoverflow.com/a/55172547/5769463
+  * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
+  * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
+  
 ## How-to
 
 tutorials how to do something
