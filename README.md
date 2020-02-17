@@ -52,6 +52,10 @@ trying to collect canonical Q&As for cython
   * more complicated OMP-things with Cython: https://stackoverflow.com/a/57967436/5769463
   * OMP-threads and Python-threads are different things: https://stackoverflow.com/a/53696844/5769463
   
+#### Multiprocessing:
+
+  * spawn and frozen scripts with multiprocessing: https://stackoverflow.com/a/47360452/5769463
+  
 #### Importing modules:
 
   * using different file-extension for modeules: https://stackoverflow.com/a/59995134/5769463
