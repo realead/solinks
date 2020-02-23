@@ -71,6 +71,7 @@ tutorials how to do something
   * How to test functions cdef'd in Cython https://stackoverflow.com/a/53696970/5769463
   * How to use user-defined types for numpy-array in Cython https://stackoverflow.com/a/50861680/5769463
   * How to create a C-Closure (also jit with Python) https://stackoverflow.com/q/51044122/5769463
+  * Putting PyObject* into C++-data-structures: https://stackoverflow.com/q/53695695/5769463
 
 
 
