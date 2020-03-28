@@ -37,6 +37,7 @@ trying to collect canonical Q&As for cython
   * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
   * building extension for debug-build https://stackoverflow.com/a/59204487/5769463
   * reloading Cython modules https://stackoverflow.com/a/55172547/5769463
+  * how Cython and Numpy provide they functionality without need of link against them at link time: https://stackoverflow.com/a/58162089/5769463
   
 #### Numpy:
 
