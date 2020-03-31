@@ -45,6 +45,10 @@ trying to collect canonical Q&As for cython
   * How to initialize PyArray_API:  https://stackoverflow.com/a/47027598/5769463
   * How to pass ownership of pointer to numpy-array: https://stackoverflow.com/a/55959886/5769463
   
+#### Performance:
+  
+  * Cython for SIMD-instructions: https://stackoverflow.com/q/49058949/5769463
+  
 #### OMP/parallelization:
    
   * accessing elements of a list in parallel: https://stackoverflow.com/a/60012137/5769463
