@@ -39,6 +39,7 @@ trying to collect canonical Q&As for cython
   * reloading Cython modules https://stackoverflow.com/a/55172547/5769463
   * how Cython and Numpy provide they functionality without need of link against them at link time: https://stackoverflow.com/a/58162089/576946344
   * changing built-in compile-flags: https://stackoverflow.com/a/57057959/5769463
+  * numpy-header cannot be found: https://stackoverflow.com/q/2379898/5769463
   
 #### Numpy:
 
