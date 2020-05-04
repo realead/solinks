@@ -104,5 +104,11 @@ answers I'm proud of (obviously without objective reasons):
   * Using pymalloc as allocator for c++-maps/performace tests: https://stackoverflow.com/a/56551790/5769463
   * Why so are loaded before py-files? https://stackoverflow.com/q/56004885/5769463
   * numexpr sets the number of vml-threads: https://stackoverflow.com/a/59603509/5769463
+  
+
+## git tricks
+
+  * merge current branch (`dev`) into master: `git push $(git rev-parse --show-toplevel) dev:master`: https://stackoverflow.com/a/20788245/5769463
+  * rebase only part of the branch: `git rebase —-onto <place-to-put-it> <last-change-that-should-NOT-move> <change to move>`: https://stackoverflow.com/a/34927492/5769463
                    
  
