@@ -8,6 +8,7 @@ trying to collect canonical Q&As for cython
   * Error message “Cannot convert 'double *' to Python object” in Cython:  https://stackoverflow.com/q/53763480/5769463
   * Error message "Cannot convert Python object to ..."  : https://stackoverflow.com/q/47005382/5769463
   * How to specify Python 3 source in Cython's setup.py? https://stackoverflow.com/a/53992016/5769463
+  * What does language_level in setup.py for cython do? https://stackoverflow.com/q/54900723/5769463
   * Cython: understanding a typed memoryview with indirect_contignuous memory layout https://stackoverflow.com/a/53951543/5769463
   * Wrapping C++ code with function pointer (or other non-type template parameter) as template parameter in cython https://stackoverflow.com/a/53584657/5769463
   * How to test if Cython property/function is generator? https://stackoverflow.com/a/53425234/5769463
@@ -65,7 +66,7 @@ trying to collect canonical Q&As for cython
   
 #### Importing modules:
 
-  * using different file-extension for modeules: https://stackoverflow.com/a/59995134/5769463
+  * using different file-extension for modules: https://stackoverflow.com/a/59995134/5769463
   * order of importing so,py,pyc files: https://stackoverflow.com/a/56119980/5769463
   * reloading c-extensions: https://stackoverflow.com/a/55172547/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
