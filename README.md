@@ -23,6 +23,16 @@ trying to collect canonical Q&As for cython
   
 #### Building:
 
+  * What is an undefined reference/unresolved external symbol error and how do I fix it?  https://stackoverflow.com/q/12573816/5769463
+
+##### Python specific
+ 
+  * building extension for debug-build https://stackoverflow.com/a/59204487/5769463
+  * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
+  * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
+  
+##### Cython specific
+
   * creating a static executable https://stackoverflow.com/a/48836737/5769463
   * Make executable file from multiple pyx files using cython https://stackoverflow.com/a/52977319/5769463
   * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
@@ -31,12 +41,9 @@ trying to collect canonical Q&As for cython
   * Taking care of multi-phase intialization in embeded Python (Cython>=0.29) https://stackoverflow.com/a/55669343/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   * Setuptools & using numpy without preinstallation https://stackoverflow.com/a/54138355/5769463
-  * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
   * Cythons inlude_path vs. distutils include_dirs https://stackoverflow.com/q/56812008/5769463
   * how to cythonize `__init__.py` (also on Windows) https://stackoverflow.com/q/58797673/5769463
   * Warning LNK4197 on Windows  while building modules with cython https://stackoverflow.com/a/58866779/5769463
-  * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
-  * building extension for debug-build https://stackoverflow.com/a/59204487/5769463
   * reloading Cython modules https://stackoverflow.com/a/55172547/5769463
   * how Cython and Numpy provide they functionality without need of link against them at link time: https://stackoverflow.com/a/58162089/576946344
   * changing built-in compile-flags: https://stackoverflow.com/a/57057959/5769463
