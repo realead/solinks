@@ -48,6 +48,7 @@ trying to collect canonical Q&As for cython
   * how Cython and Numpy provide they functionality without need of link against them at link time: https://stackoverflow.com/a/58162089/576946344
   * changing built-in compile-flags: https://stackoverflow.com/a/57057959/5769463
   * numpy-header cannot be found: https://stackoverflow.com/q/2379898/5769463
+  * pyx-file and cpp-file have the same name, clash of object files: https://stackoverflow.com/q/50719086/5769463
   
 #### Numpy:
 
