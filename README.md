@@ -120,5 +120,7 @@ answers I'm proud of (obviously without objective reasons):
 
   * merge current branch (`dev`) into master: `git push $(git rev-parse --show-toplevel) dev:master`: https://stackoverflow.com/a/20788245/5769463
   * rebase only part of the branch: `git rebase —-onto <place-to-put-it> <last-change-that-should-NOT-move> <change to move>`: https://stackoverflow.com/a/34927492/5769463
+  * tag a release via command line: `git tag -a v1.0.1 -m"my info about v1.0.1" &&  git push origin v1.0.1`
+ : https://stackoverflow.com/a/48534947/5769463
                    
  
