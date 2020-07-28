@@ -33,6 +33,13 @@ trying to collect canonical Q&As for cython
   * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
   
+#### Windows specific
+  
+  * Using dll in C-extensions https://stackoverflow.com/q/62662816/5769463
+  * building extension for debug-build on Windows https://stackoverflow.com/a/59204487/5769463
+  * static Python on Windows (don't do it...) https://stackoverflow.com/q/62492622/5769463
+  * embeding Python into a dll with Cython https://stackoverflow.com/a/62417945/5769463
+  
 ##### Cython specific
 
   * creating a static executable https://stackoverflow.com/a/48836737/5769463
@@ -81,6 +88,10 @@ trying to collect canonical Q&As for cython
   * reloading c-extensions: https://stackoverflow.com/a/55172547/5769463
   * How to use shared-libraries in Cython-modules https://stackoverflow.com/a/45655654/5769463
   * Collapse multiple submodules to one Cython extension https://stackoverflow.com/a/52714500/5769463 https://stackoverflow.com/a/52729181/5769463
+  
+#### Embeding
+
+  * is there really no code in the resulting exe? https://stackoverflow.com/q/62388701/5769463
   
 ## How-to
 
