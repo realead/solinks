@@ -38,7 +38,8 @@ trying to collect canonical Q&As for cython
   * Using dll in C-extensions https://stackoverflow.com/q/62662816/5769463
   * building extension for debug-build on Windows https://stackoverflow.com/a/59204487/5769463
   * static Python on Windows (don't do it...) https://stackoverflow.com/q/62492622/5769463
-  * embeding Python into a dll with Cython https://stackoverflow.com/a/62417945/5769463
+  * embeding Python into a dll with Cython https://stackoverflow.com/a/62417945/57694637
+  * linking against library doesn't work, because library is 32bit: https://stackoverflow.com/q/63750020/5769463
   
 ##### Cython specific
 
