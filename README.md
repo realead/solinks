@@ -18,7 +18,7 @@ trying to collect canonical Q&As for cython
   * don't use cdef float for timer.time(): https://stackoverflow.com/q/55997211/5769463
   * mixing cdef and normal attributes in a cdef class: https://stackoverflow.com/q/42632297/5769463
 
-### pickling:
+#### pickling:
 
   * pickling of namedcollection with Cython: https://stackoverflow.com/a/55236951/5769463
   * pickling typed memory-view with Cython: https://stackoverflow.com/a/58343703/5769463
@@ -32,10 +32,11 @@ trying to collect canonical Q&As for cython
   * building extension for debug-build on Windows https://stackoverflow.com/a/59204487/5769463
   * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
+  * use third party so/dll in C- or Cython-extension: https://stackoverflow.com/q/63804883/5769463
   
-#### Windows specific
+##### Windows specific
   
-  * Using dll in C-extensions https://stackoverflow.com/q/62662816/5769463
+  * Using dll in C-extensions https://stackoverflow.com/q/63804883/5769463 (more Windows specific explanations, but less complete solution https://stackoverflow.com/q/62662816/5769463)
   * building extension for debug-build on Windows https://stackoverflow.com/a/59204487/5769463
   * static Python on Windows (don't do it...) https://stackoverflow.com/q/62492622/5769463
   * embeding Python into a dll with Cython https://stackoverflow.com/a/62417945/57694637
