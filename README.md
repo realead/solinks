@@ -29,11 +29,11 @@ trying to collect canonical Q&As for cython
 
 ##### Python specific
  
-  * building extension for debug-build on Windows https://stackoverflow.com/a/59204487/5769463
   * different build-options for different cpp-files https://stackoverflow.com/a/59364990/5769463
   * building a static library in setup and then linking extensions against it https://stackoverflow.com/q/57673283/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
   * use third party so/dll in C- or Cython-extension: https://stackoverflow.com/q/63804883/5769463
+  * right way to share C/CPP-code between extensions, ORD-violation example: https://stackoverflow.com/q/63875206/5769463
   
 ##### Windows specific
   
@@ -95,6 +95,7 @@ trying to collect canonical Q&As for cython
 #### Embeding
 
   * is there really no code in the resulting exe? https://stackoverflow.com/q/62388701/5769463
+  * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
   
 ## How-to
 
