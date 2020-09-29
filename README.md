@@ -22,6 +22,7 @@ trying to collect canonical Q&As for cython
 
   * pickling of namedcollection with Cython: https://stackoverflow.com/a/55236951/5769463
   * pickling typed memory-view with Cython: https://stackoverflow.com/a/58343703/5769463
+  * pickling cdef classes with \_\_cinit\_\_: https://stackoverflow.com/q/64069471/5769463
   
 #### Building:
 
