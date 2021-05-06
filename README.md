@@ -18,6 +18,7 @@ trying to collect canonical Q&As for cython
   * don't use cdef float for timer.time(): https://stackoverflow.com/q/55997211/5769463
   * mixing cdef and normal attributes in a cdef class: https://stackoverflow.com/q/42632297/5769463
   * importing with another Python-version: https://stackoverflow.com/q/65597206/5769463
+  * Creating a numpy datatype from Cython struct: https://stackoverflow.com/q/62448946/5769463
 
 #### pickling:
 
