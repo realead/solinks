@@ -99,6 +99,10 @@ trying to collect canonical Q&As for cython
 
   * is there really no code in the resulting exe? https://stackoverflow.com/q/62388701/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
+ 
+### Misc:
+  
+  * folding while converting to bytecode: https://stackoverflow.com/q/15171695/5769463, https://stackoverflow.com/q/34147515/5769463
   
 ## How-to
 
