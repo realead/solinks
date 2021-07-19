@@ -102,7 +102,7 @@ trying to collect canonical Q&As for cython
  
 ### Misc:
   
-  * folding while converting to bytecode: https://stackoverflow.com/q/15171695/5769463, https://stackoverflow.com/q/34147515/5769463
+  * folding while converting to bytecode: https://stackoverflow.com/q/15171695/5769463, https://stackoverflow.com/q/34147515/5769463, https://stackoverflow.com/q/306313/5769463
   
 ## How-to
 
