@@ -45,7 +45,9 @@ trying to collect canonical Q&As for cython
   * static Python on Windows (don't do it...) https://stackoverflow.com/q/62492622/5769463
   * embeding Python into a dll with Cython https://stackoverflow.com/a/62417945/57694637
   * linking against library doesn't work, because library is 32bit: https://stackoverflow.com/q/63750020/5769463
-  
+  * cross compiling on Linux for Windows: https://stackoverflow.com/a/70474888/5769463
+  * compiling using mingw-w64 : https://stackoverflow.com/a/70654723/5769463
+
 ##### Cython specific
 
   * creating a static executable https://stackoverflow.com/a/48836737/5769463
