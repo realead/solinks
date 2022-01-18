@@ -101,6 +101,7 @@ trying to collect canonical Q&As for cython
 
   * is there really no code in the resulting exe? https://stackoverflow.com/q/62388701/5769463
   * PYTHONHOME/PYTHONPATH for embeded interpreters https://stackoverflow.com/q/56857449/5769463
+  * why option -Xlinker -export-dynamic is needed https://stackoverflow.com/a/67894308/5769463
  
 ### Misc:
   
