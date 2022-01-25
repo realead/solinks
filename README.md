@@ -19,6 +19,7 @@ trying to collect canonical Q&As for cython
   * mixing cdef and normal attributes in a cdef class: https://stackoverflow.com/q/42632297/5769463
   * importing with another Python-version: https://stackoverflow.com/q/65597206/5769463
   * Creating a numpy datatype from Cython struct: https://stackoverflow.com/q/62448946/5769463
+  * Speeding up Numpy with Cython: https://stackoverflow.com/q/70821944/5769463
 
 #### pickling:
 
